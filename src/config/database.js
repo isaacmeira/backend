@@ -1,8 +1,8 @@
 module.exports = {
   dialect: 'postgres',
   host: '127.0.0.1',
-  username: 'postgres',
-  password: 'password',
+  username: 'docker',
+  password: 'docker',
   database: 'community_bank',
   operatorAliases: false,
   define: {
